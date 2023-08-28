@@ -9,14 +9,14 @@
 
 - 👨‍💻 All of my projects are available at [mohamedezat.live](mohamedezat.live)
 
-- 💬 Ask me about **anything :)**
+- Feel free to get in touch
 
 - 📫 How to reach me **mo@moezat.tech**
 
 - ⚡ Fun fact **I like people lol**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> wa.me/+201093682463
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
