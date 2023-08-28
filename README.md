@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://wa.me/+201093682463">
+  <a href="https://wa.me/+201093682463" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" alt="Click me" style="width: 50px; height: 50px;">
   </a>
-    <a href="https://m.me/mohamed.ezat.9332">
+    <a href="https://m.me/mohamed.ezat.9332" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" alt="Click me" style="width: 50px; height: 50px;">
   </a>
-  <a href="https://t.me/MhamedEzzat">
+  <a href="https://t.me/MhamedEzzat" target="_blank">
     <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" alt="Click me" style="width: 50px; height: 50px;">
   </a>
 
