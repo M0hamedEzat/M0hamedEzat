@@ -1,9 +1,7 @@
 <h1 align="center">Hello ^^, I'm Mohamed Ezzat</h1>
-<h3 align="center">Just a regular human doing his best to be the best!</h3>
+<h3 align="center">Just a normal human here nothing much!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hamedezat&label=Profile%20views&color=0e75b6&style=flat" alt="m0hamedezat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0hamedezat" alt="m0hamedezat" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, Django and mongoDB**
 
@@ -16,7 +14,17 @@
 - ⚡ Fun fact **I like people lol**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> https://wa.me/+201093682463
+<p align="left">
+  <a href="https://wa.me/+201093682463">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png" alt="Click me" style="width: 50px; height: 50px;">
+  </a>
+    <a href="https://m.me/mohamed.ezat.9332">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/2048px-Facebook_Messenger_logo_2020.svg.png" alt="Click me" style="width: 50px; height: 50px;">
+  </a>
+  <a href="https://t.me/MhamedEzzat">
+    <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" alt="Click me" style="width: 50px; height: 50px;">
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
