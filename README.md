@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mohamedezat.live" target="_blank">
-    <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg" alt="MasterHead" style="width: 100%; height:25%;">
+    <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg" alt="MasterHead" style="width: 100%; height: 350px;">
   </a>
 </p>
 
