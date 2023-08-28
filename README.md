@@ -1,5 +1,5 @@
 <h1 align="center">Hello ^^, I'm Mohamed Ezzat</h1>
-<h3 align="center">Just a normal human here nothing much!</h3>
+<h3 align="center">Just a normal human here, nothing much!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hamedezat&label=Profile%20views&color=0e75b6&style=flat" alt="m0hamedezat" /> </p>
 
