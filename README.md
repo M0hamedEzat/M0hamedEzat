@@ -1,7 +1,13 @@
+<p align="center">
+  <a href="https://mohamedezat.live" target="_blank">
+    <img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg" alt="MasterHead" style="width: 100%; height:25%;">
+  </a>
+</p>
+
 <h1 align="center">Hello ^^, I'm Mohamed Ezzat</h1>
 <h3 align="center">Just a normal human here, nothing much!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hamedezat&label=Profile%20views&color=0e75b6&style=flat" alt="m0hamedezat" /> </p>
+<p><img align="right" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coder" style="width:350px; height:350px;" /></p>
 
 - 🌱 I’m currently learning **ReactJS, Django and mongoDB**
 
